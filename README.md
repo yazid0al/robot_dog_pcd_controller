@@ -35,4 +35,4 @@ Based on the board layout, the components interface with the Arduino Nano via th
 3. **Power Tuning (Crucial):** If using the MT3608 boost converter, use a multimeter to tune the output voltage (e.g., to exactly 5V) **before** plugging in the Arduino Nano and Servos to prevent overvoltage damage.
 
 ---
-*Designed by Y.A.Z.*
+*Designed by Yazid*
